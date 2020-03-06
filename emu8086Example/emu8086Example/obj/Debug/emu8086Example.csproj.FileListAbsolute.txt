@@ -1,0 +1,9 @@
+C:\Users\Hasan Dik\source\repos\emu8086Example\emu8086Example\bin\Debug\emu8086Example.exe.config
+C:\Users\Hasan Dik\source\repos\emu8086Example\emu8086Example\bin\Debug\emu8086Example.exe
+C:\Users\Hasan Dik\source\repos\emu8086Example\emu8086Example\bin\Debug\emu8086Example.pdb
+C:\Users\Hasan Dik\source\repos\emu8086Example\emu8086Example\obj\Debug\emu8086Example.csprojAssemblyReference.cache
+C:\Users\Hasan Dik\source\repos\emu8086Example\emu8086Example\obj\Debug\emu8086Example.Form1.resources
+C:\Users\Hasan Dik\source\repos\emu8086Example\emu8086Example\obj\Debug\emu8086Example.Properties.Resources.resources
+C:\Users\Hasan Dik\source\repos\emu8086Example\emu8086Example\obj\Debug\emu8086Example.csproj.GenerateResource.cache
+C:\Users\Hasan Dik\source\repos\emu8086Example\emu8086Example\obj\Debug\emu8086Example.exe
+C:\Users\Hasan Dik\source\repos\emu8086Example\emu8086Example\obj\Debug\emu8086Example.pdb
