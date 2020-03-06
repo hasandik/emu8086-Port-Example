@@ -1,5 +1,8 @@
 # Emu8086 Port Example
 Emu8086 port usage example for academic purpose only
+
+// Comments and variables are in Turkish
+
 # About
 EMU8086 communicates with this program through ports. EMU8086 sends data to this program. The program can read the sent data and use it as desired.
 Emu8086 compares the 2 data entered in itself and sends different values to the port determined according to the big and small situations.
